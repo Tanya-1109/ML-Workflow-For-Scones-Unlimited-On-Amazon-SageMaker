@@ -17,7 +17,8 @@ Step 6: Cleanup cloud resources
 I have uploaded all the necessary code for creatinf lambda functions as well as step functions.Hope this helps
 
 # Step-Function-Execution-steps
-![Screenshot 2023-03-11 002633](https://user-images.githubusercontent.com/107848751/224405799-c25be8cc-c151-460e-83ab-7351bf3e50d0.png)
+![Screenshot 2023-03-11 002647](https://user-images.githubusercontent.com/107848751/224406343-61701c28-5002-4cc1-8ecf-94ef5ad36c0c.png)
+
 # Successfull-Execution-graph
 ![t](https://user-images.githubusercontent.com/107848751/224406127-6a756cd8-e10f-439b-bf48-f8812b0d0995.png)
 
